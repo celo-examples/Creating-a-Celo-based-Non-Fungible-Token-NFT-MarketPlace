@@ -59,7 +59,7 @@ Your NFT marketplace should now be accessible at http://localhost:3000.
 - React - Front-end library
 - ContractKit - Celo library for interacting with the Celo blockchain
 
-###Contributing
+### Contributing
 Feel free to submit pull requests, create issues, or discuss improvements to enhance the project.
 
 
