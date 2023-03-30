@@ -21,7 +21,8 @@ Make sure you have the following software installed on your machine:
 ### Installation
 
 - Clone this repository
-```
+
+```bash
 git clone https://github.com/yourusername/My-NFT-Marketplace-on-Celo.git
 ```
 - Change to the project directory
@@ -33,8 +34,10 @@ cd My-NFT-Marketplace-on-Celo
 npm install
 ```
 - Compile the smart contracts
+- 
 ```bash
-truffle compile```
+truffle compile
+```
 
 - Deploy the smart contracts to a local blockchain
 ```bash
@@ -44,7 +47,8 @@ truffle(develop)> migrate --reset
 
 - Start the local development server
 ```bash
-npm start```
+npm start
+```
 
 Your NFT marketplace should now be accessible at http://localhost:3000.
 
