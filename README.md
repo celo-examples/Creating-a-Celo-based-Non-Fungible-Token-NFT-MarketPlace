@@ -34,7 +34,6 @@ cd My-NFT-Marketplace-on-Celo
 npm install
 ```
 - Compile the smart contracts
-- 
 ```bash
 truffle compile
 ```
